@@ -20,6 +20,7 @@ The dashboard uses a sidebar for **easy navigation** between different segments.
 - Data Visualization Techniques
 
 📸 Dashboard Preview
+
 [Dashboard preview]https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Corporate%20Super.png
 
 [Dashboard preview]https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Shipping%20Super.png
