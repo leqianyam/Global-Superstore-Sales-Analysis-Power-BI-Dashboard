@@ -20,7 +20,8 @@ The dashboard uses a sidebar for **easy navigation** between different segments.
 - Data Visualization Techniques
 
 📸 Dashboard Preview
-*(Include 1-2 screenshots of your Power BI dashboard to make it visually appealing.)*
+[Dashboard preview]https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Corporate%20Super.png
+[Dashboard preview]https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Shipping%20Super.png
 
 🏆 Key Takeaways
 - Identified trends in **consumer vs. corporate sales performance**.
@@ -30,7 +31,7 @@ The dashboard uses a sidebar for **easy navigation** between different segments.
 📥 How to View the Dashboard
 Since Power BI files aren’t natively viewable on GitHub, you can:
 1. **[Download the .pbix file](#)** *(Upload your Power BI file here)*
-2. Open it in **Power BI Desktop** *(free from Microsoft)*.
+2. Open it in **Power BI Desktop**.
 
 ---
 👤 Created by Yam LeQian | ✉️ gmail:leqianyam@gmail.com
