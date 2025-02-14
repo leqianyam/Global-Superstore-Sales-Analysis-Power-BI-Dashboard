@@ -32,7 +32,7 @@ The dashboard uses a sidebar for **easy navigation** between different segments.
 
 📥 How to View the Dashboard
 Since Power BI files aren’t natively viewable on GitHub, you can:
-1. **[Download the .pbix file](#)** *(Upload your Power BI file here)*
+1. **[https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/raw/refs/heads/main/Global%20Super%20Store.pbix](#)**
 2. Open it in **Power BI Desktop**.
 
 ---
