@@ -21,9 +21,9 @@ The dashboard uses a sidebar for **easy navigation** between different segments.
 
 📸 Dashboard Preview
 
-[Dashboard preview]https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Corporate%20Super.png
+[Dashboard preview]https://github.com/leqianyam/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Corporate%20Super.png
 
-[Dashboard preview]https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Shipping%20Super.png
+[Dashboard preview]https://github.com/leqianyam/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Shipping%20Super.png
 
 🏆 Key Takeaways
 - Identified trends in **consumer vs. corporate sales performance**.
@@ -33,7 +33,7 @@ The dashboard uses a sidebar for **easy navigation** between different segments.
 📥 How to View the Dashboard
 Since Power BI files aren’t natively viewable on GitHub, you can:
 1. Download the pbix file:
-  **[https://github.com/PogoBusiness/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/raw/refs/heads/main/Global%20Super%20Store.pbix](#)**
+  **[https://github.com/leqianyam/Global-Superstore-Sales-Analysis-Power-BI-Dashboard/blob/main/Global%20Super%20Store.pbix](#)**
 5. Open it in **Power BI Desktop**.
 
 ---
