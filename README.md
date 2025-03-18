@@ -1,5 +1,6 @@
 📌 About This Project
-This interactive Power BI dashboard explores sales data from the **Global Superstore dataset**, available online.  
+This interactive Power BI dashboard explores sales data from the **Global Superstore dataset**, available online. 
+The main purpose of this project is to create an interactive dashboard which allows companies to access data easily for different departments.
 It provides insights into:
 - 📊 **Corporate Sales**
 - 🛒 **Consumer Sales**
